@@ -1,0 +1,4 @@
+com\MongoCrud\Main\controller\UsuariosController.class
+com\MongoCrud\Main\repository\UsuariosRepo.class
+com\MongoCrud\Main\documents\Usuarios.class
+com\MongoCrud\Main\MongoApplication.class

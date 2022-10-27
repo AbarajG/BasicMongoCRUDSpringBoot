@@ -1,2 +1,2 @@
 # BasicMongoCRUDSpringBoot
-A functional CRUD made in spring boot with MongoDB
+A Rest service created with MongoDB, basic CRUD with a put, get, post and delete methods.
